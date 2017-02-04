@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  When you would like to share your work publically, or when you would like to be able to work on other publically availalb repositories, or you would like to be able to use GitHub as a base and work on different computers in different locations.
